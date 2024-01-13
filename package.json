@@ -1,0 +1,17 @@
+{
+  "name": "checkout-cart-tdd",
+  "version": "1.0.0",
+  "description": "Implement a checkout cart using Test-driven development.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "mocha test/checkout.spec.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^5.0.0",
+    "mocha": "^10.2.0"
+  }
+}
